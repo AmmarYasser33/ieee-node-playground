@@ -1,6 +1,7 @@
 # NodeJS Workshop Repo
 
 Welcome to the Node.js course repository for IEEE SB! This repository contains tasks and exercises for our Node.js course.
+
 And the final projects 🔻
 
 ## Task Structure
